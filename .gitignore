@@ -3,3 +3,11 @@
 /PSWinCom-Gateway-SimpleSendSmsExample-CSharp/PSWinComGatewaySendSMSConsoleApp/bin/Debug
 /PSWinCom-Gateway-SimpleSendSmsExample-CSharp/PSWinComGatewaySendSMSConsoleApp/obj/Debug
 /PSWinCom-Gateway-SimpleSendSmsExample-CSharp/*.suo
+/PSWinCom.Sample.SendSmsXmlHttp/PSWinCom.Sample.SendSmsXmlHttp/bin/Debug
+/PSWinCom.Sample.SendSmsXmlHttp/PSWinCom.Sample.SendSmsXmlHttp/obj/Debug
+/PSWinCom.Sample.SendSmsXmlHttp/PSWinCom.Sample.SendSmsXmlHttp.v11.suo
+/SendSmsWithSdk/*.suo
+/ReceiveSmsAndDrWithSDK/PSWinCom.Samples.MODRwithDotNetClient/bin
+/ReceiveSmsAndDrWithSDK/PSWinCom.Samples.MODRwithDotNetClient/obj/Debug
+/SendSmsWithSdk/PSWinComGatewaySendSMSConsoleApp/bin/Debug
+/SendSmsWithSdk/PSWinComGatewaySendSMSConsoleApp/obj/Debug
